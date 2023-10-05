@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MortgagePayment</string>
+    <string name="calc_payment">Calculate my monthly payment!</string>
+    <string name="calcit">Calculate it!</string>
+    <string name="principal">Principal Loan Amount</string>
+    <string name="interestr">Interest Rate (%)</string>
+    <string name="interestrtype">Type of interest rate:</string>
+    <string name="monthly">Monthly</string>
+    <string name="annual">Annual</string>
+    <string name="loandur">Loan Duration</string>
+    <string name="years">Years</string>
+    <string name="months">Months</string>
+    <string name="mp">Your monthly payment amount is:</string>
+    <string name="backtoinput">Back to input</string>
+    <string name="payamt">paymentamount</string>
+    <string name="enter">Enter </string>
+</resources>
